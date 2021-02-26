@@ -1,4 +1,11 @@
 # django-restframeworkd-mongodb
-Building Rest API with MongoDB
 
-Using Djongo, Django and MongoDB to build a rest framewor
+## Building Rest API with MongoDB
+
+# End Points
+
+/cards /cards/:id
+
+/decks /decks/:id
+
+decks/:id/cards
